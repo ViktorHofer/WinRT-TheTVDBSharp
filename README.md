@@ -1,7 +1,7 @@
-TVDBSharp
+WinRT-TheTVDBSharp
 =========
 
-**Nuget Package: https://www.nuget.org/packages/TheTVDBSharp/**
+**Nuget Package: https://www.nuget.org/packages/WinRT-TheTVDBSharp/**
 
 **A C# wrapper for the TVDB API.**
 
@@ -25,7 +25,7 @@ You don't have to do this, but some people might want to read up on the, althoug
 Easiest way is to add nuget package via Nuget Package Manager in Visual Studio. Link at the top.
 
 **4) Use it!**  
-You can now use TVDBSharp in your own project.
+You can now use WinRT-TheTVDBSharp in your own project.
 
 A simple example:
 
